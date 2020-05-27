@@ -8,7 +8,7 @@ import java.io.File;
 import android.content.Intent;
 import android.net.Uri;
 import android.content.Context;
-import android.support.v4.content.FileProvider;
+import androidx.core.content.FileProvider;
 import java.text.SimpleDateFormat;
 
 public class ApkInstaller extends CordovaPlugin {
