@@ -37,6 +37,5 @@
         </config-file>
         <source-file src="src/android/ApkInstaller.java" target-dir="src/plugin/apkInstaller/"/>
         <source-file src="src/android/xml/file_paths.xml" target-dir="res/xml/"/>
-        <lib-file src="src/android/libs/android-support-v4.jar" />
     </platform>
 </plugin>
